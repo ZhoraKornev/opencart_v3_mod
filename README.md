@@ -1,6 +1,6 @@
 # opencart_v3_mod
 
-This mod will add you the option section on to featured section at the main page
+This mod will add you the option section(if it's exist on current product) on to featured section at the main page
 
 little visual mod for  opencart v3.0.2.0
 
